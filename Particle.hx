@@ -2,7 +2,6 @@ package;
 
 import aze.display.TileLayer;
 import aze.display.TileSprite;
-import com.fs.fluffeaters.Color;
 import flash.geom.Point;
 
 /**
